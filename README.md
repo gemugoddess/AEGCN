@@ -1,7 +1,5 @@
 # AEGCN
-This is our Tensorflow implementation for AEGCN:
-
-
+This is our Tensorflow implementation for AEGCN. We will continue format this code.
 
 ## Environment Requirement
 The code has been tested running under Python 3.6.5. The required packages are as follows:
@@ -24,7 +22,7 @@ python AEGCN.py --dataset tianchi --regs [1e-4] --embed_size 64 --layer_size [64
 
 ## Dataset
 
-We provide two processed datasets: Tiachi (dataset in paper) and lastfm (just for fast debug).
+We provide the Tiachi dataset used in paper.
 
 Format of Tianchi: user_id,item_id,olditemcategory,itemcategory
 
