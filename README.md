@@ -2,15 +2,20 @@
 This is our Tensorflow implementation for AEGCN. We will continue format this code.
 
 ## Environment Requirement
-The code has been tested running under Python 3.6.5. The required packages are as follows:
 
 tensorflow-gpu 1.13.1 or 1.12.0
+
 numpy 1.17.0
+
 scipy 1.1.0
+
 pandas 0.25.1
+
 python 3.7.0 or 3.6.2
 
+
 ## Examples of Tianchi 
+
 missing rate = n%, e.g, n=99, 0%<=n%<100.0%
 
 parameters in parser.py
