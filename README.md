@@ -17,7 +17,7 @@ parameters in parser.py
 
 * Command
 ```
-python AEGCN.py --dataset tianchi --regs [1e-4] --embed_size 64 --layer_size [64,64,64] --lr 0.001 --batch_size 2048 --epoch 300 --unlabel_rate=0.99 --mtl_dropout=0.2 --lamda2 0.01 --pre_dim2 64
+python AEGCN.py --dataset tianchi_58 --regs [1e-4] --embed_size 64 --layer_size [64,64,64] --lr 0.001 --batch_size 2048 --epoch 300 --unlabel_rate=0.99 --mtl_dropout=0.2 --lamda2 0.01 --pre_dim2 64
 ```
 
 ## Dataset
